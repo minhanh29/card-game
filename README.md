@@ -1,5 +1,5 @@
 # card-game
-This project is making a card game.
+This project is making a card game, using Java and NetBeans 8.2.
 1. The player chooses a number of cards.
 2. Random cards are selected and shuffled by the program.
 3. The player has to memorize all the cards' names.
