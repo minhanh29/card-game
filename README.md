@@ -9,3 +9,5 @@ This project is making a card game.
 Issues:
 1. Clear the screen after the player finishes memorizing.
 2. Rename some cards (1S -> AS: Ace of Spade. 13H -> KH: King of Hearts)
+
+Minh Anh.
